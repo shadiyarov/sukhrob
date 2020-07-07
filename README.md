@@ -1,2 +1,3 @@
-# sukhrob
-MY code
+<?php
+echo "Welcome to GitHub"
+?>
